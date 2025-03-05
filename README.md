@@ -38,7 +38,3 @@ Este estudo analisa exclusivamente os dados de acidentes registrados em **rodovi
 Esses dados indicam que estratégias de **conscientização e fiscalização** podem ajudar a reduzir os acidentes, principalmente em estados com maior fluxo de trânsito e em períodos críticos.
 
 ---
-
-3. Abra o Jupyter Notebook ou Google Colab e rode o arquivo analise_acidentes_transito_2023.ipynb.
-
-4. Caso prefira rodar localmente, certifique-se de ter o dataset datatran2023.csv na mesma pasta do notebook.
