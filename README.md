@@ -74,8 +74,7 @@ Este projeto realiza uma análise exploratória dos dados públicos da Polícia 
 ## Apresentação Visual
 
 📊 A apresentação completa com narrativa e gráficos está disponível no LinkedIn:  
-🔗 _[Insira o link da postagem aqui assim que publicar]_
-
+🔗 _[(https://www.linkedin.com/feed/update/urn:li:activity:7310730383912804352/?co]
 ---
 
 ## Como Executar
